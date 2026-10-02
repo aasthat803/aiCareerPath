@@ -1,0 +1,6 @@
+{
+  "name": "AI CareerPath - Interactive AI Career Roadmap & Advisor",
+  "description": "Navigate your career in artificial intelligence with interactive roadmaps, career fit quiz, skill tracker, and AI mentor guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
